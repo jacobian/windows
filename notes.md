@@ -21,3 +21,4 @@ What I did after taking it out of the box and turning it on:
 ## random ongoing notes junk
 
 - the Slack app for Windows is super-ugly
+- found my printer (Brother wifi printer) and printed just fine, no fuss
