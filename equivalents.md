@@ -1,5 +1,7 @@
 ### Mapping of stuff I use on OSX to the closest equivalents on Windows I can find
 
+(doesn't include any stuff that's cross-platform, i.e. Sublime, Dropbox, etc.)
+
 OSX | Windows | Notes 
 ---- | --- | ---
 Dash | [Velocity](http://velocity.silverlakesoftware.com/)
@@ -16,3 +18,4 @@ Viewfinder | ?
 Alfred | ?
 Flux | ?
 OmniGraffle | ?
+Mailplane | built-in | trying built-in mail/calendar apps for now, seems OK?
