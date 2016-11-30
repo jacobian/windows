@@ -4,18 +4,23 @@
 
 OSX | Windows | Notes 
 ---- | --- | ---
-Dash | [Velocity](http://velocity.silverlakesoftware.com/)
-Keynote | Powerpoint | ugh
-nvAlt | [Notation](http://getnotation.com/)
-Nimbus | [irccloud-desktop](https://github.com/irccloud/irccloud-desktop)
-ReadKit | ?
+Alfred | ? | the part I'm missing the most is the clipboard manager, need to replace that first
 Annotate | built-in | double-click eraser takes a screenshot and lets you write on it. delightful
+Dash | [Velocity](http://velocity.silverlakesoftware.com/)
+Flux | ?
 Gifwit | ?
 iTerm | ?
+Keynote | Powerpoint/Google | ugh
+Mailplane | built-in | trying built-in mail/calendar apps for now, seems OK?
+Marked | ? 
+Nimbus | [irccloud-desktop](https://github.com/irccloud/irccloud-desktop)
+Numbers | Excel/Google | excel is better, I should have been using it all along
+nvAlt | [Notation](http://getnotation.com/)
+OmniGraffle | ?
+Postgres.app | ?
+Radiant Player | ?
+ReadKit | ?
+Sketch | ? | *sob*
 Slate | ?
 Tweetbot | ?
 Viewfinder | ?
-Alfred | ?
-Flux | ?
-OmniGraffle | ?
-Mailplane | built-in | trying built-in mail/calendar apps for now, seems OK?
