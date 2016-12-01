@@ -20,7 +20,7 @@ nvAlt | [Notation](http://getnotation.com/)
 OmniGraffle | ?
 Postgres.app | ?
 Radiant Player | ?
-ReadKit | ?
+ReadKit | [Hypersonic](https://www.microsoft.com/en-us/store/p/hypersonic/9nblggh5wnb6)
 Sketch | ? | *sob*
 Slate | ?
 Tweetbot | ?
