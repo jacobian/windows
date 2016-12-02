@@ -22,3 +22,4 @@ What I did after taking it out of the box and turning it on:
 
 - the Slack app for Windows is super-ugly
 - found my printer (Brother wifi printer) and printed just fine, no fuss
+- Edge is substantially faster than Chrome (like, lots), and consumes noticably less battery. But, the browser extension story isnt as good, lots of thinks i use are missing.
