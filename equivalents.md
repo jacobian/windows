@@ -7,7 +7,6 @@ OSX | Windows | Notes
 Alfred | ? | the part I'm missing the most is the clipboard manager, need to replace that first
 Annotate | built-in | double-click eraser takes a screenshot and lets you write on it. delightful. but uploading to dropbox/etc, need to find an easy way to do that.
 Dash | [Velocity](http://velocity.silverlakesoftware.com/)
-Flux | ?
 Gifwit | ?
 Homebrew | [Chocolatey](https://chocolatey.org)
 iTerm | [ConsoleZ](https://github.com/cbucher/console)
