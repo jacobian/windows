@@ -24,3 +24,4 @@ What I did after taking it out of the box and turning it on:
 - found my printer (Brother wifi printer) and printed just fine, no fuss
 - Edge is substantially faster than Chrome (like, lots), and consumes noticably less battery. But, the browser extension story isnt as good, lots of thinks i use are missing.
 - UAC to top
+- windows "insider" gets new WSL stuff quicker, will it be less stable?
