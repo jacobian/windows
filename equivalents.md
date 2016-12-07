@@ -4,7 +4,8 @@
 
 OSX | Windows | Notes 
 ---- | --- | ---
-Alfred | ? | the part I'm missing the most is the clipboard manager, need to replace that first
+Alfred - launcher | built-in | tapping the windows key brings up cortana which works ok enough for now
+Alfred - clipboard manager| ? | the part I'm missing the most from alfred
 Annotate | built-in | double-click eraser takes a screenshot and lets you write on it. delightful. but uploading to dropbox/etc, need to find an easy way to do that.
 Dash | [Velocity](http://velocity.silverlakesoftware.com/)
 Gifwit | ?
@@ -19,8 +20,8 @@ nvAlt | [Notation](http://getnotation.com/) | I don't like this very much, maybe
 OmniGraffle | ?
 Postgres.app | ?
 Radiant Player | ?
-ReadKit | [Hypersonic](https://www.microsoft.com/en-us/store/p/hypersonic/9nblggh5wnb6)
+ReadKit | [Hypersonic](https://www.microsoft.com/en-us/store/p/hypersonic/9nblggh5wnb6) | very nice
 Sketch | ? | *sob*
 Slate | [AquaSnap](http://www.nurgo-software.com/products/aquasnap) | not sure...
-Tweetbot | ?
+Tweetbot | ? | who cares
 Viewfinder | ?
