@@ -9,7 +9,7 @@ Annotate | built-in | double-click eraser takes a screenshot and lets you write 
 Dash | [Velocity](http://velocity.silverlakesoftware.com/)
 Gifwit | ?
 Homebrew | [Chocolatey](https://chocolatey.org)
-iTerm | [ConsoleZ](https://github.com/cbucher/console)
+iTerm | [ConsoleZ](https://github.com/cbucher/console) / [cmder](http://cmder.net/)?
 Keynote | Powerpoint/Google | ugh
 Mailplane | built-in | trying built-in mail/calendar apps for now, seems OK?
 Marked | ? 
